@@ -1,9 +1,9 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import yogaImage from "@assets/openart-image_0ZQkSfCa_1762396733008_raw (1)_1762434090745.jpg";
-import walkingImage from "@assets/openart-image_0TyvXcW5_1762397202597_raw_1762434090737.jpg";
-import insolesImage from "@assets/openart-image_9d-kGvJq_1762396887010_raw_1762434090741.jpg";
-import bedImage from "@assets/openart-image__J0K3fKl_1762396776452_raw_1762434090743.jpg";
+import yogaImage from "/attached_assets/yoga.jpg";
+import walkingImage from "/attached_assets/walk.jpg";
+import insolesImage from "/attached_assets/insoles.jpg";
+import bedImage from "/attached_assets/bed.jpg";
 
 export function Hero() {
   return (
