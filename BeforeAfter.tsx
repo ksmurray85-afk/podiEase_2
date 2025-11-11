@@ -1,4 +1,4 @@
-import beforeAfterImage from "@assets/openart-image_10F-8XV2_1762397127984_raw_1762437433927.jpg";
+import beforeAfterImage from "/attached_assets/before.jpg";
 
 export function BeforeAfter() {
   return (
