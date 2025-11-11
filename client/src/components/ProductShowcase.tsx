@@ -2,12 +2,12 @@ import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 import insolesImage from "/attached_assets/insoles.jpg";
-import nightSplintImage from "/attached_assets/night.jpg";
-import footRollerImage from "/attached_assets/high.jpg";
-import kinesioTapeImage from "/attached_assets/tape.jpg";
-import compressionSockImage from "/attached_assets/sock.jpg";
-import archSupportImage from "/attached_assets/arch.jpg";
-import ankleSleeveImage from "/attached_assets/ankle.jpg";
+import nightSplintImage from "/attached_assets/night.WEBP";
+import footRollerImage from "/attached_assets/high.WEBP";
+import kinesioTapeImage from "/attached_assets/tape.WEBP";
+import compressionSockImage from "/attached_assets/sock.WEBP";
+import archSupportImage from "/attached_assets/arch.WEBP";
+import ankleSleeveImage from "/attached_assets/ankle.WEBP";
 
 const images = [
   { src: insolesImage, alt: "Premium orthotic insoles with arch support" },
