@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import podiatristImage from "@assets/Untitled design (1)_1762596396469.jpg";
+import podiatristImage from "/attached_assets/kim pic.jpg";
 
 export function AboutSection() {
   return (
