@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import insolesImage from "/attached_assets/insoles.jpg";
+import insolesImage from "/attached_assets/openart-image_9d-kGvJq_1762396887010_raw_1762436859148.jpg";
 import nightSplintImage from "/attached_assets/night.WEBP";
 import footRollerImage from "/attached_assets/high.WEBP";
 import kinesioTapeImage from "/attached_assets/tape.WEBP";
