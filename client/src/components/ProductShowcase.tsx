@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
-import insolesImage from "@assets/openart-image_9d-kGvJq_1762396887010_raw_1762436859148.jpg";
-import nightSplintImage from "@assets/253_2716-360x360_1762437042640.webp";
-import footRollerImage from "@assets/highroller-webslider-001-360x360_1762437042641.webp";
-import kinesioTapeImage from "@assets/1227_2027-360x360_1762437042644.webp";
-import compressionSockImage from "@assets/FS4-Sock-No-Show-Black-360x360_1762437042646.webp";
-import archSupportImage from "@assets/Foot-Arch-Support-Plantar-Fasciitis-Wrap-600px-360x360_1762437042647.webp";
-import ankleSleeveImage from "@assets/FS6-Black-2_1762437042649.webp";
+import insolesImage from "/attached_assets/insoles.jpg";
+import nightSplintImage from "/attached_assets/night.jpg";
+import footRollerImage from "/attached_assets/high.jpg";
+import kinesioTapeImage from "/attached_assets/tape.jpg";
+import compressionSockImage from "/attached_assets/sock.jpg";
+import archSupportImage from "/attached_assets/arch.jpg";
+import ankleSleeveImage from "/attached_assets/ankle.jpg";
 
 const images = [
   { src: insolesImage, alt: "Premium orthotic insoles with arch support" },
