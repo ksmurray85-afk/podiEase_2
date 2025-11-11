@@ -1,0 +1,13 @@
+{
+  "ignoreCommand": "echo Ignoring server folder",
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "functions": {},
+  "framework": "vite",
+  "buildCommand": "npm run build --prefix client",
+  "outputDirectory": "client/dist"
+}
+
