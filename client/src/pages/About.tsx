@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 import { Heart, Target, Award, Users } from "lucide-react";
-import podiatristImage from/"attached_assets/Untitled design (1)_1762596396469.jpg";
+import podiatristImage from "/attached_assets/kim.jpg";
 
 export default function About() {
   return (
