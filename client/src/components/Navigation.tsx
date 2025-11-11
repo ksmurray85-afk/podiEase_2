@@ -3,7 +3,7 @@ import { ShoppingCart, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { useState } from "react";
-import logoImage from "@assets/podiEase Transparent symbol_1762746240790.png";
+import logoImage from "/attached_assets/podiEase Transparent symbol_1762746240790.png";
 
 interface NavigationProps {
   cartItemCount: number;
