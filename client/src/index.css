@@ -3,7 +3,7 @@
 @tailwind utilities;
 @font-face {
   font-family: 'Biski';
-  src: url('/attached_assets/BiskiTrial-Regular_1762746466203.otf') format('opentype');
+  src: url('/fonts/BiskiTrial-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
