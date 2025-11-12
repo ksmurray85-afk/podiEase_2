@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 @font-face {
   font-family: 'Biski';
   src: url('/attached_assets/BiskiTrial-Regular_1762746466203.otf') format('opentype');
@@ -5,10 +8,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 /* LIGHT MODE */
 :root {
